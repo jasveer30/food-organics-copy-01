@@ -8,10 +8,10 @@ params:
         text: Made with Stackbit
         url: 'https://www.stackbit.com'
   header:
-    bg_img: images/header-bg.jpg
+    bg_img: ''
     has_nav: true
     has_social: true
-    logo_img: images/logo.png
+    logo_img: /images/dryfoods_dreamstime_m_9396865_440px.jpg
     tagline: Minimal and clean blog theme
     title: food plaza
   palette: green
